@@ -40,3 +40,4 @@ def decide_retry(error):
     return flag
 
 
+print("Test for Gitlab!")
